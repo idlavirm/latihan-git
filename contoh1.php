@@ -2,6 +2,6 @@
 {     public function index() 
     {         
         echo "<h1>Perkenalkan</h1>";         
-        echo"Nama saya Imam Nawawi, Saya tingga di daerah Ciputat, olah raga yang saya sukai adalah Bulutangkis"; 
+        echo"Nama saya Muhammad Rivaldi, Saya tinggal di daerah Cipinang, olah raga yang saya sukai adalah Futsal"; 
     } 
 } 
