@@ -11,4 +11,4 @@
         $this->hasil = $this->nilai1 + $this->nilai2;         
         return $this->hasil; 
     } 
-} 
+}
