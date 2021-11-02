@@ -45,19 +45,19 @@
 					<th>:</th>
 					<td>
 						<select name="ukuran" id="ukuran">
-							<option value="1">32</option>
-							<option value="2">33</option>
-							<option value="3">34</option>
-							<option value="4">35</option>
-							<option value="5">36</option>
-							<option value="5">37</option>
-							<option value="5">38</option>
-							<option value="5">39</option>
-							<option value="5">40</option>
-							<option value="5">41</option>
-							<option value="5">42</option>
-							<option value="5">43</option>
-							<option value="5">44</option>
+							<option value="32">32</option>
+							<option value="33">33</option>
+							<option value="34">34</option>
+							<option value="35">35</option>
+							<option value="36">36</option>
+							<option value="37">37</option>
+							<option value="38">38</option>
+							<option value="39">39</option>
+							<option value="40">40</option>
+							<option value="41">41</option>
+							<option value="42">42</option>
+							<option value="43">43</option>
+							<option value="44">44</option>
 						</select>
 					</td>
 				</tr>
