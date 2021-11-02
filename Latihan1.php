@@ -12,4 +12,3 @@
         $this->load->view('view_latihan', $data); 
     } 
 } 
-
